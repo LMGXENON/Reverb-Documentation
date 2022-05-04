@@ -17,14 +17,6 @@
 - We store this data on MongoDB private cluster and it will delete if you are not using our bot for the future.
 - Submitted data. This includes user and server options
 
-##What message content use for?
-
-- The bot will access the user's messages to protect server by automod config
-
-- The bot will use this message data to punish user for automod and it can be warned, kicked, ban or unbanned.
-
-*Note: These are very sensitive for every user's privacy so we recommend to admins that take the log channels as private or mod only.*
-
 ##Who can access the data?
 - Following people can access ALL of the data:
 *Bot developer(s)
